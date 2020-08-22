@@ -5,7 +5,6 @@ author: "Paula Larenas, María Francisca Vergara, Carolina Astudillo, Javiera Ur
 date: "21 de agosto 2020"
 output:
   html_document:
-    df_print: paged
       toc: true
       highlight: pygments
       toc_float:
