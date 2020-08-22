@@ -9,7 +9,7 @@ navbar:
   - text: "Paper"
     href: Paper.html
   - icon: fa-envelope fa-lg
-    href: mailto: maria.vergara.b@ug.uchile.cl
+    href: mailto:maria.vergara.b@ug.uchile.cl
   - icon: fa-github fa-lg
     href: https://github.com/mfranciscavergarab/cienciabierta
 output:
