@@ -1,10 +1,19 @@
 ---
 name: "Estudio sobre SIMCE 2013 en RM"
+output_dir: "."
 navbar:
-  title: "Estudio sobre SIMCE 2013 en RM"
+  title: "Estudio sobre Simce 2013 en RM"
   left:
   - text: "Home"
     href: index.html
   - text: "Paper"
     href: Paper.html
+  - icon: fa-envelope fa-lg
+    href: mailto: maria.vergara.b@ug.uchile.cl
+  - icon: fa-github fa-lg
+    href: https://github.com/mfranciscavergarab/cienciabierta
+output:
+  html_document:
+    theme: united
+    css: "../input/css/custom.css"
 ---
