@@ -6,6 +6,10 @@ date: "21 de agosto 2020"
 output:
   html_document:
     df_print: paged
+      toc: true
+      highlight: pygments
+      toc_float:
+        collapsed: true
 bibliography: ./Input/Bib/Ciencia_Abierta.bib
 csl: ./Input/Bib/apa.csl
    
