@@ -7,5 +7,6 @@ Autoras: Carolina Astudillo carolinna.as98@gmail.com Mailen Kimelman mailenvk@gm
 Editoras: Carolina Astudillo carolinna.as98@gmail.com Paula Larenas paula.larenas@ug.uchile.cl
 Javiera Urrutia javiera.urrutia@ug.uchile.cl María Francisca Vergara maria.vergara.b@ug.uchile.cl
 
-Página web del proyecto: https://mfranciscavergarab.github.io/trabajocienciabierta/Paper.html
+Página web del proyecto: https://mfranciscavergarab.github.io/trabajocienciabierta/index.html
+
 Proyecto abierto OSF: https://osf.io/3928a/
